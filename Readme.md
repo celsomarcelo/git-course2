@@ -1,6 +1,4 @@
-# Github
-
-Arquivo da aula de Git e Github para iniciantes
+Akfhsdjkhfkjdhskjfhdskjhfkjdshfrquivo da aula de Git e Github para iniciantes
 
 Segunda vez para entender essa parada!
 
